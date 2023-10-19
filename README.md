@@ -2,10 +2,18 @@
 
 ## I'm a Software Engineer from the UK
 
+### Currently in my 2nd year at university studying a Bachelor's in Software Engineering
+
 - :brain: I have 2 years of industry experience building websites
 - :handshake: I've collaborated with marketing and design teams in marketing agencies.
 - :heart: I love creating UI interfaces
-- 🚀 Embarking on a Rusty Adventure 📚🦀
+- Currently exploring upcoming browser APIs for better User Experiences in my projects.
+
+## What am I currently doing? 🤔
+- Learning cross platform development with Flutter and React Native
+- Researching domain modelling and agile techniques
+- Learning Unity for a university project
+- Researching Data structures and algorithms with reducing complexity techniques
 
 ### Languages and Tools
 
