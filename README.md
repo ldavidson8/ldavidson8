@@ -1,28 +1,28 @@
-### Hi there I'm Lewis👋
+### Hi there!👋
 
-## I'm a Software Engineer from the UK
+## I'm Lewis, a Software Engineering student.
 
-### Currently in my 2nd year at university studying a Bachelor's in Software Engineering
+### Currently in my 2nd year working on my Bachelors degree.
 
-- :brain: I have 2 years of industry experience building websites
-- :handshake: I've collaborated with marketing and design teams in marketing agencies.
-- :heart: I love creating UI interfaces
-- Currently exploring upcoming browser APIs for better User Experiences in my projects.
+- :brain: I have 2 years of industry experience building web applications.
+- :handshake: Led a development team in a marketing agency
+- 🖌️ I love creating beautiful interfaces
 
 ## What am I currently doing? 🤔
 - Learning cross platform development with Flutter and React Native
-- Researching domain modelling and agile techniques
-- Learning Unity for a university project
-- Researching Data structures and algorithms with reducing complexity techniques
+- Keeping up to date with the advancements in mobile and browser technologies.
+- Buiilding in Svelte 🧡
+- Researching Data structures and algorithms to better my understanding of existing OSS tools.
 
-### Languages and Tools
+### Favourite tools
 
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- ### Some of my projects -->
 
