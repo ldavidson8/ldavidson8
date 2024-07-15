@@ -34,5 +34,4 @@
 <br>
 
 ### Currently Vibing To 🎵
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j0cxbjcfyqmcwp1vgetyarqtq&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=j0cxbjcfyqmcwp1vgetyarqtq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=j0cxbjcfyqmcwp1vgetyarqtq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=8080ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=j0cxbjcfyqmcwp1vgetyarqtq&redirect=true)
