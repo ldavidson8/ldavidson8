@@ -5,13 +5,12 @@
 ### Currently in my 2nd year working on my Bachelors degree.
 
 - :brain: I have 2 years of industry experience building web applications.
-- :handshake: Led a development team in a marketing agency
 - 🖌️ I love creating beautiful interfaces
 
 ## What am I currently doing? 🤔
 - Learning cross platform development with Flutter and React Native
 - Keeping up to date with the advancements in mobile and browser technologies.
-- Buiilding in Svelte 🧡
+- Building in Svelte 🧡
 - Researching Data structures and algorithms to better my understanding of existing OSS tools.
 
 ### Favourite tools
