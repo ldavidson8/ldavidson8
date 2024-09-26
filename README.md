@@ -2,7 +2,7 @@
 
 ## I'm Lewis, a Software Engineering student.
 
-### Currently in my 2nd year working on my Bachelors degree.
+### Currently in my 3rd year working on my Bachelors degree.
 
 - :brain: I have 2 years of industry experience building web applications.
 - 🖌️ I love creating beautiful interfaces
